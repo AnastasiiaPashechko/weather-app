@@ -1,0 +1,47 @@
+.col-1,
+.col-2 {
+  color: blue;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.image {
+  width: 30px;
+}
+.image1 {
+  width: 50px;
+}
+.wireframe {
+  border: 1px solid grey;
+  margin-top: 100px;
+  margin-right: 400px;
+  margin-bottom: 200px;
+  margin-left: 100px;
+  padding: 10px 30px;
+  border-radius: 10px;
+}
+form {
+  margin-bottom: 35px;
+}
+
+.input-text {
+  width: 50%;
+}
+.nav {
+  margin-bottom: 20px;
+}
+.nav-item {
+  margin: 0 15px;
+  color: blue;
+}
+.temperature {
+  font-size: 35px;
+}
+li {
+  list-style: none;
+}
+ul {
+  margin: 0;
+}
+a {
+  text-decoration: none;
+}
